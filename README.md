@@ -6,13 +6,11 @@ Adjustable Output Voltage: 0V to 30V via a potentiometer.
 
 Digital Volt/Ammeter Display: Shows real-time voltage and current.
 
-Overcurrent Protection: Basic current limiting to protect circuits.
-
 Simulation-Ready: Designed and tested entirely in Proteus 8.
 
 🛠 Tools & Technologies
 Proteus 8 (ISIS and ARES for simulation and PCB layout)
 
-Operational Amplifiers, Voltage Regulators, Transistors
+ Voltage Regulators, Transistors
 
 Multimeter Modules for voltage/current visualization
